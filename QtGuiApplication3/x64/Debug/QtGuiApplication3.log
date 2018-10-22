@@ -1,0 +1,4 @@
+﻿  QtGuiApplication3.cpp
+j:\实验室项目\研一\testregister\qtguiapplication3\qtguiapplication3\qtguiapplication3.cpp(209): warning C4715: “QtGuiApplication3::activationJudge”: 不是所有的控件路径都返回值
+  QtGuiApplication3.vcxproj -> J:\实验室项目\研一\TestRegister\QtGuiApplication3\x64\Debug\QtGuiApplication3.exe
+  QtGuiApplication3.vcxproj -> J:\实验室项目\研一\TestRegister\QtGuiApplication3\x64\Debug\QtGuiApplication3.pdb (Full PDB)
